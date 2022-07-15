@@ -1,0 +1,18 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Log In
+{% endblock %}
+
+{% block main %}
+    <h2>History:</h2>
+    {% for x in data %}
+        <div>
+            {{ x['type'] }}
+            {{ x['shares'] }} shares of
+            {{ x['symbol'] }} for
+            {{ x['value'] }}
+        </div>
+    {% endfor %}
+
+{% endblock %}

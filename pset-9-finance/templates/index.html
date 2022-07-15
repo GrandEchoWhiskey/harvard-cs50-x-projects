@@ -1,0 +1,24 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Log In
+{% endblock %}
+
+{% block main %}
+    <div>
+        <h1> Total Value: {{ total }}</h1>
+        <h4> Free Money: {{ cash }}</h4>
+        <h4> In holdings: {{ cash_stock }}</h4>
+    </div>
+    <table width="100%">
+        {% for x in data %}
+            <tr>
+                <td>{{ x['name'] }} ( {{ x['symbol'] }} )</td>
+                <td>{{ x['value'] }}</td>
+                <td>{{ x['shares'] }} shares</td>
+                <td>{{ x['holding'] }}</td>
+            </tr>
+        {% endfor %}
+    </table>
+
+{% endblock %}
