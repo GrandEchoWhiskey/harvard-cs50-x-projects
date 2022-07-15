@@ -63,7 +63,7 @@ Name | Description | Technology
 ---
   
 <p align="center"><a href="https://certificates.cs50.io/8166d756-6d6c-415e-a048-72f658c432d3">
-  <img src="CS50x.png" width="90%"/>
+  <img src="data/CS50x.png" width="90%"/>
 </a></p>
 
 <!-- Links -->
