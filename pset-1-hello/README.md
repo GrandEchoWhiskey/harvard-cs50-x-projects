@@ -13,11 +13,15 @@
 Simple program that uses user input to print "hello, {user}".
 
 ### Getting Started:
-Clone this repository.
+Export this directory using svn.
 ```
-git clone https://github.com/GrandEchoWhiskey/harvard-cs50-x-hello
+svn export https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/trunk/pset-1-hello
 ```
-Compile the program.
+Change directory
+```
+cd pset-1-hello
+```
+Compile the program. (Optional)
 ```
 make hello
 ```
