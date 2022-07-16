@@ -13,7 +13,7 @@
 Simple program that uses user input to print "hello, {user}".
 
 ### Getting Started:
-Export this directory using svn.
+Export this directory using SVN.
 ```
 svn export https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/trunk/pset-1-hello
 ```
