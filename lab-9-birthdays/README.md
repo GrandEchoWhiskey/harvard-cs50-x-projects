@@ -10,14 +10,19 @@
 </a></p>
 
 ### Description:
-
+A web application that keeps track of friends’ birthday
 
 ### Getting Started:
-Clone this repository.
+Export this directory using SVN.
 ```
-git clone https://github.com/GrandEchoWhiskey/
+svn export https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/trunk/lab-9-birthdays
 ```
-Now run the program.
+Change directory
 ```
-
+cd lab-9-birthdays
 ```
+Run flask
+```
+flask run
+```
+Open browser and type in your flask servers IP Address
