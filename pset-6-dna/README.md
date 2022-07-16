@@ -1,4 +1,4 @@
-[<- Back to course](https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/dict/course/CS50-HarvardX/CS50x/README.md)
+[<- Back to course](../README.md)
 
 <p align="center"><a href="https://cs50.harvard.edu/x/2022">
   <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/course/harvard100.png" /><br>
@@ -17,15 +17,15 @@ Well, DNA is really just a sequence of molecules called nucleotides, arranged in
 One place where DNA tends to have high genetic diversity is in Short Tandem Repeats (STRs). An STR is a short sequence of DNA bases that tends to repeat consecutively numerous times at specific locations inside of a person’s DNA. The number of times any particular STR repeats varies a lot among individuals. In the DNA samples below, for example, Alice has the STR `AGAT` repeated four times in her DNA, while Bob has the same STR repeated five times.
 
 ### Getting Started:
-Clone this repository.
+Export this directory using SVN.
 ```
-git clone https://github.com/GrandEchoWhiskey/harvard-cs50-x-dna
+svn export https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/trunk/pset-6-dna
 ```
-Now run the program.
+Change directory
 ```
-python dna.py database sequences
+cd pset-6-dna
 ```
-For example
+Now run the script
 ```
-python dna.py databases/large.csv sequences/1.txt
+python dna.py DATABASE SEQUENCE
 ```
