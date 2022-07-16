@@ -27,4 +27,4 @@ Run flask
 ```
 flask run
 ```
-Open browser and type in your flask servers IP Address
+Open browser and type in your flask server IP Address
