@@ -23,11 +23,15 @@ Add the sum to the sum of the digits that weren’t multiplied by 2.
 If the total’s last digit is 0 (or, put more formally, if the total modulo 10 is congruent to 0), the number is valid!
 
 ### Getting Started:
-Clone this repository.
+Export this directory using SVN.
 ```
-git clone https://github.com/GrandEchoWhiskey/harvard-cs50-x-credit
+svn export https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/trunk/pset-1-credit
 ```
-Compile the program.
+Change directory
+```
+cd pset-1-credit
+```
+Compile the program. (Optional)
 ```
 make credit
 ```
