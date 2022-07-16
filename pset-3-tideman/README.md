@@ -33,5 +33,5 @@ make tideman
 ```
 Now run the binary file
 ```
-./tidemand [candidates max=9]
+./tideman [candidates max=9]
 ```
