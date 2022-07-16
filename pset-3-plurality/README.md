@@ -15,20 +15,6 @@ Elections come in all shapes and sizes. In the UK, the Prime Minister is officia
 Perhaps the simplest way to hold an election, though, is via a method commonly known as the “plurality vote” (also known as “first-past-the-post” or “winner take all”). In the plurality vote, every voter gets to vote for one candidate. At the end of the election, whichever candidate has the greatest number of votes is declared the winner of the election.
 
 ### Getting Started:
-Clone this repository.
-```
-git clone https://github.com/GrandEchoWhiskey/harvard-cs50-x-plurality
-```
-Compile the program.
-```
-make plurality
-```
-Now run the binary file
-```
-./plurality
-```
-
-### Getting Started:
 Export this directory using SVN.
 ```
 svn export https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/trunk/pset-3-plurality
