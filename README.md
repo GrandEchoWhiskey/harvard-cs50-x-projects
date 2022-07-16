@@ -69,34 +69,34 @@ P9 | [Finance][finance_link] | A website via wich users can "buy" and "sell" sto
 
 
 [hello_link]:           pset-1-hello
-[mario_link]:           https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-1-mario-more
-[credit_link]:          https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-1-credit
-[readability_link]:     https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-2-readability
-[substitution_link]:    https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-2-substitution
-[plurality_link]:       https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-3-plurality
-[tideman_link]:         https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-3-tideman
-[filter_link]:          https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-4-filter-more
-[recover_link]:         https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-4-recover
-[speller_link]:         https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-5-speller
-[hello_py_link]:        https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-6-sentimental-hello
-[mario_py_link]:        https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-6-sentimental-mario-more
-[credit_py_link]:       https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-6-sentimental-credit
-[readability_py_link]:  https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-6-sentimental-readability
-[dna_link]:             https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-6-dna
-[movies_link]:          https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-7-movies
-[fiftyville_link]:      https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-7-fiftyville
-[homepage_link]:        https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-8-homepage
-[finance_link]:         https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-9-finance
+[mario_link]:           pset-1-mario-more
+[credit_link]:          pset-1-credit
+[readability_link]:     pset-2-readability
+[substitution_link]:    pset-2-substitution
+[plurality_link]:       pset-3-plurality
+[tideman_link]:         pset-3-tideman
+[filter_link]:          pset-4-filter-more
+[recover_link]:         pset-4-recover
+[speller_link]:         pset-5-speller
+[hello_py_link]:        pset-6-sentimental-hello
+[mario_py_link]:        pset-6-sentimental-mario-more
+[credit_py_link]:       pset-6-sentimental-credit
+[readability_py_link]:  pset-6-sentimental-readability
+[dna_link]:             pset-6-dna
+[movies_link]:          pset-7-movies
+[fiftyville_link]:      pset-7-fiftyville
+[homepage_link]:        pset-8-homepage
+[finance_link]:         pset-9-finance
 
 <!-- Labs -->
-[scrabble_link]:        https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/lab-2-scrabble
-[sort_link]:            https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/lab-3-sort
-[volume_link]:          https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/lab-4-volume
-[inheritance_link]:     https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/lab-5-inheritance
-[worldcup_link]:        https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/lab-6-world-cup
-[songs_link]:           https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/lab-7-songs
-[trivia_link]:          https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/lab-8-trivia
-[birthdays_link]:       https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/lab-9-birthdays
+[scrabble_link]:        lab-2-scrabble
+[sort_link]:            lab-3-sort
+[volume_link]:          lab-4-volume
+[inheritance_link]:     lab-5-inheritance
+[worldcup_link]:        lab-6-world-cup
+[songs_link]:           lab-7-songs
+[trivia_link]:          lab-8-trivia
+[birthdays_link]:       lab-9-birthdays
 
 [c_img]: https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/c.png
 [py_img]: https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/python.png
