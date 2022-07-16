@@ -1,4 +1,4 @@
-[<- Back to course](https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/dict/course/CS50-HarvardX/CS50x/README.md)
+[<- Back to course](../README.md)
 
 <p align="center"><a href="https://cs50.harvard.edu/x/2022">
   <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/course/harvard100.png" /><br>
@@ -20,6 +20,24 @@ Clone this repository.
 git clone https://github.com/GrandEchoWhiskey/harvard-cs50-x-plurality
 ```
 Compile the program.
+```
+make plurality
+```
+Now run the binary file
+```
+./plurality
+```
+
+### Getting Started:
+Export this directory using SVN.
+```
+svn export https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/trunk/pset-3-plurality
+```
+Change directory
+```
+cd pset-3-plurality
+```
+Compile the program. (Optional)
 ```
 make plurality
 ```
