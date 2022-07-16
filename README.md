@@ -68,7 +68,7 @@ P9 | [Finance][finance_link] | A website via wich users can "buy" and "sell" sto
 [certificate_link]: https://certificates.cs50.io/8166d756-6d6c-415e-a048-72f658c432d3
 
 
-[hello_link]:           https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-1-hello
+[hello_link]:           pset-1-hello
 [mario_link]:           https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-1-mario-more
 [credit_link]:          https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-1-credit
 [readability_link]:     https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-2-readability
