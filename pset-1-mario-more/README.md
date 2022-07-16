@@ -20,11 +20,15 @@ Height: 4
 ```
 
 ### Getting Started:
-Clone this repository.
+Export this directory using SVN.
 ```
-git clone https://github.com/GrandEchoWhiskey/harvard-cs50-x-mario-more
+svn export https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/trunk/pset-1-mario-more
 ```
-Compile the program.
+Change directory
+```
+cd pset-1-mario-more
+```
+Compile the program. (Optional)
 ```
 make mario
 ```
