@@ -19,15 +19,19 @@ The Tideman voting method consists of three parts:
 Once the graph is complete, the source of the graph (the one with no edges pointing towards it) is the winner!
 
 ### Getting Started:
-Clone this repository.
+Export this directory using SVN.
 ```
-git clone https://github.com/GrandEchoWhiskey/harvard-cs50-x-tideman
+svn export https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/trunk/pset-3-tideman
 ```
-Compile the program.
+Change directory
+```
+cd pset-3-tideman
+```
+Compile the program. (Optional)
 ```
 make tideman
 ```
 Now run the binary file
 ```
-./tideman [candidates max=9]
+./tidemand [candidates max=9]
 ```
