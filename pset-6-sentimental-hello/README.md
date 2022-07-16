@@ -1,4 +1,4 @@
-[<- Back to course](https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/dict/course/CS50-HarvardX/CS50x/README.md)
+[<- Back to course](../README.md)
 
 <p align="center"><a href="https://cs50.harvard.edu/x/2022">
   <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/course/harvard100.png" /><br>
@@ -13,11 +13,15 @@
 Simple program that uses user input to print "hello, {user}".
 
 ### Getting Started:
-Clone this repository.
+Export this directory using SVN.
 ```
-git clone https://github.com/GrandEchoWhiskey/harvard-cs50-x-sentimental-hello
+svn export https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/trunk/pset-6-sentimental-hello
 ```
-Now run the program.
+Change directory
+```
+cd pset-6-sentimental-hello
+```
+Now run the script
 ```
 python hello.py
 ```
