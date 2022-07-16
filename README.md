@@ -68,25 +68,25 @@ P9 | [Finance][finance_link] | A website via wich users can "buy" and "sell" sto
 [certificate_link]: https://certificates.cs50.io/8166d756-6d6c-415e-a048-72f658c432d3
 
 
-[hello_link]:           https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/amin/pset-1-hello
-[mario_link]:           https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/amin/pset-1-mario-more
-[credit_link]:          https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/amin/pset-1-credit
-[readability_link]:     https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/amin/pset-2-readability
-[substitution_link]:    https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/amin/pset-2-substitution
-[plurality_link]:       https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/amin/pset-3-plurality
-[tideman_link]:         https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/amin/pset-3-tideman
-[filter_link]:          https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/amin/pset-4-filter-more
-[recover_link]:         https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/amin/pset-4-recover
-[speller_link]:         https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/amin/pset-5-speller
-[hello_py_link]:        https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/amin/pset-6-sentimental-hello
-[mario_py_link]:        https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/amin/pset-6-sentimental-mario-more
-[credit_py_link]:       https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/amin/pset-6-sentimental-credit
-[readability_py_link]:  https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/amin/pset-6-sentimental-readability
-[dna_link]:             https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/amin/pset-6-dna
-[movies_link]:          https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/amin/pset-7-movies
-[fiftyville_link]:      https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/amin/pset-7-fiftyville
-[homepage_link]:        https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/amin/pset-8-homepage
-[finance_link]:         https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/amin/pset-9-finance
+[hello_link]:           https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-1-hello
+[mario_link]:           https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-1-mario-more
+[credit_link]:          https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-1-credit
+[readability_link]:     https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-2-readability
+[substitution_link]:    https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-2-substitution
+[plurality_link]:       https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-3-plurality
+[tideman_link]:         https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-3-tideman
+[filter_link]:          https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-4-filter-more
+[recover_link]:         https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-4-recover
+[speller_link]:         https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-5-speller
+[hello_py_link]:        https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-6-sentimental-hello
+[mario_py_link]:        https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-6-sentimental-mario-more
+[credit_py_link]:       https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-6-sentimental-credit
+[readability_py_link]:  https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-6-sentimental-readability
+[dna_link]:             https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-6-dna
+[movies_link]:          https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-7-movies
+[fiftyville_link]:      https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-7-fiftyville
+[homepage_link]:        https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-8-homepage
+[finance_link]:         https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/pset-9-finance
 
 <!-- Labs -->
 [scrabble_link]:        https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/lab-2-scrabble
