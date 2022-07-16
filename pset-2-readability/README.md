@@ -1,4 +1,4 @@
-[<- Back to course](https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/dict/course/CS50-HarvardX/CS50x/README.md)
+[<- Back to course](../README.md)
 
 <p align="center"><a href="https://cs50.harvard.edu/x/2022">
   <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/course/harvard100.png" /><br>
@@ -18,11 +18,15 @@ Well, in many cases, a human expert might read a book and make a decision on the
 So what sorts of traits are characteristic of higher reading levels? Well, longer words probably correlate with higher reading levels. Likewise, longer sentences probably correlate with higher reading levels, too.
 
 ### Getting Started:
-Clone this repository.
+Export this directory using SVN.
 ```
-git clone https://github.com/GrandEchoWhiskey/harvard-cs50-x-readability
+svn export https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/trunk/pset-2-readability
 ```
-Compile the program.
+Change directory
+```
+cd pset-2-readability
+```
+Compile the program. (Optional)
 ```
 make readability
 ```
