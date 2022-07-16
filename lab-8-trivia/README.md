@@ -22,4 +22,7 @@ Change directory
 ```
 cd lab-8-trivia
 ```
-Run index.html in browser by double clicking.
+Run in browser
+```
+./index.html
+```
