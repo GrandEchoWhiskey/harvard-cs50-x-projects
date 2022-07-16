@@ -1,4 +1,4 @@
-[<- Back to course](https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/dict/course/CS50-HarvardX/CS50x/README.md)
+[<- Back to course](../README.md)
 
 <p align="center"><a href="https://cs50.harvard.edu/x/2022">
   <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/course/harvard100.png" /><br>
@@ -13,11 +13,15 @@
 In a substitution cipher, we “encrypt” (i.e., conceal in a reversible way) a message by replacing every letter with another letter. To do so, we use a key: in this case, a mapping of each of the letters of the alphabet to the letter it should correspond to when we encrypt it. To “decrypt” the message, the receiver of the message would need to know the key, so that they can reverse the process: translating the encrypt text (generally called ciphertext) back into the original message (generally called plaintext).
 
 ### Getting Started:
-Clone this repository.
+Export this directory using SVN.
 ```
-git clone https://github.com/GrandEchoWhiskey/harvard-cs50-x-substitution
+svn export https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/trunk/pset-2-substitution
 ```
-Compile the program.
+Change directory
+```
+cd pset-2-substitution
+```
+Compile the program. (Optional)
 ```
 make substitution
 ```
