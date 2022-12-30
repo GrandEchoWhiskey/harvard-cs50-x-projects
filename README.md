@@ -53,6 +53,7 @@ L8 | [Trivia][trivia_link] | A webpage that lets users answer trivia questions |
 P8 | [Homepage][homepage_link] | Simple homepage. | [![JavaScript][js_img]![HTML][html_img]![CSS][css_img]](#)
 L9 | [Birthdays][birthdays_link] | A web application to keep track of friends’ birthdays | [![Python][py_img]![HTML][html_img]![CSS][css_img]](#)
 P9 | [Finance][finance_link] | A website via wich users can "buy" and "sell" stocks. | [![Python][py_img]![HTML][html_img]](#)
+FP | [Final Project][fproj_link] | My Interactive CV - Create and read interactive resumes. | [![C++][cpp_img]![QT][qt_img]](#)
   
 </div>
   
@@ -98,9 +99,13 @@ P9 | [Finance][finance_link] | A website via wich users can "buy" and "sell" sto
 [trivia_link]:          lab-8-trivia
 [birthdays_link]:       lab-9-birthdays
 
+[fproj_link]:           https://github.com/GrandEchoWhiskey/cs50x-fp-icv
+
 [c_img]: https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/c.png
 [py_img]: https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/python.png
 [sql_img]: https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/sql.png
 [js_img]: https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/js.png
 [html_img]: https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/html.png
 [css_img]: https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/css.png
+[cpp_img]: https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/cpp.png
+[qt_img]: https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/qt.png
