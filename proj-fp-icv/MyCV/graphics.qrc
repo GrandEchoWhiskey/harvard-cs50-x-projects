@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/winicons">
+        <file>graphics/icon.png</file>
+        <file>graphics/high.png</file>
+        <file>graphics/low.png</file>
+        <file>graphics/middle.png</file>
+        <file>graphics/mute.png</file>
+        <file>graphics/none.png</file>
+        <file>graphics/pause.png</file>
+        <file>graphics/play.png</file>
+        <file>graphics/stop.png</file>
+        <file>graphics/settings.png</file>
+    </qresource>
+</RCC>
