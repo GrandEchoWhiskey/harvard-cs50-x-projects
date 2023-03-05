@@ -6,7 +6,8 @@
 <h1 align="center">CS50's Introduction to Computing Science<br><br>My Interactive CV</h1>
 
 <p align="center"><a href="#">
-  <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/c.png" />
+  <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/cpp.png" />
+  <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/qt.png" />
 </a></p>
 
 #### Video Demo: https://youtu.be/MXsBOsn7h5k
