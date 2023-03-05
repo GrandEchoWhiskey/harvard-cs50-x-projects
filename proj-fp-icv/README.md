@@ -3,7 +3,7 @@
 <p align="center"><a href="https://cs50.harvard.edu/x/2022">
   <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/course/harvard100.png" /><br>
 </a></p>
-<h1 align="center">CS50's Introduction to Computing Science<br><br>My Interactive CV</h1>
+<h1 align="center">CS50's Introduction to Computing Science<br><br>Final Project<br>My Interactive CV</h1>
 
 <p align="center"><a href="#">
   <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/cpp.png" />
