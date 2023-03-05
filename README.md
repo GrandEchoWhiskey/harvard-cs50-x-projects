@@ -26,33 +26,33 @@ Certificate key: [8166d756-6d6c-415e-a048-72f658c432d3][certificate_link]
 ## Problem sets (P) & Labs (L):
 Type | \# | Name | Description | Technology
 :---: | :---: | :--- | :--- | :---:
-Proj | 1 | [Hello][hello_link] | Says Hello to you. | [![C][c_img]](#)
-Proj | 1 | [Mario (More)][mario_link] | Creates a Mario pyramid in terminal. | [![C][c_img]](#)
-Proj | 1 | [Credit][credit_link] | Checks a given creditcard if is valid. | [![C][c_img]](#)
+Pset | 1 | [Hello][hello_link] | Says Hello to you. | [![C][c_img]](#)
+Pset | 1 | [Mario (More)][mario_link] | Creates a Mario pyramid in terminal. | [![C][c_img]](#)
+Pset | 1 | [Credit][credit_link] | Checks a given creditcard if is valid. | [![C][c_img]](#)
 Lab | 2 | [Scrabble][scrabble_link] | Compares letters used by two players, and their value | [![C][c_img]](#)
-Proj | 2 | [Readability][readability_link] | Grades the readability of a text. | [![C][c_img]](#)
-Proj | 2 | [Substitution][substitution_link] | Substitution cipher. | [![C][c_img]](#)
+Pset | 2 | [Readability][readability_link] | Grades the readability of a text. | [![C][c_img]](#)
+Pset | 2 | [Substitution][substitution_link] | Substitution cipher. | [![C][c_img]](#)
 Lab | 3 | [Sort][sort_link] | Anwsers of what sorting algorthm was used | 
-Proj | 3 | [Plurality][plurality_link] | Plurality election. | [![C][c_img]](#)
-Proj | 3 | [Tideman][tideman_link] | Tideman election. | [![C][c_img]](#)
+Pset | 3 | [Plurality][plurality_link] | Plurality election. | [![C][c_img]](#)
+Pset | 3 | [Tideman][tideman_link] | Tideman election. | [![C][c_img]](#)
 Lab | 4 | [Volume][volume_link] | Modifies the volume of an .wav audio file | [![C][c_img]](#)
-Proj | 4 | [Filter (More)][filter_link] | Filters for .bmp images. | [![C][c_img]](#)
-Proj | 4 | [Recover][recover_link] | Recovers JPEGs from forensic images. | [![C][c_img]](#)
+Pset | 4 | [Filter (More)][filter_link] | Filters for .bmp images. | [![C][c_img]](#)
+Pset | 4 | [Recover][recover_link] | Recovers JPEGs from forensic images. | [![C][c_img]](#)
 Lab | 5 | [Inheritance][inheritance_link] | Simulates the inheritance of blood types for each member of a family | [![C][c_img]](#)
-Proj | 5 | [Speller][speller_link] | Checks spellings in text. | [![C][c_img]](#)
+Pset | 5 | [Speller][speller_link] | Checks spellings in text. | [![C][c_img]](#)
 Lab | 6 | [World Cup][worldcup_link] | Simulates multiple FIFA World Cups | [![Python][py_img]](#)
-Proj | 6 | [Hello][hello_py_link] | Says Hello to you. | [![Python][py_img]](#)
-Proj | 6 | [Mario (More)][mario_py_link] | Creates a Mario pyramid in terminal. | [![Python][py_img]](#)
-Proj | 6 | [Credit][credit_py_link] | Checks a given creditcard if is valid. | [![Python][py_img]](#)
-Proj | 6 | [Readability][readability_py_link] | Grades the readability of a text. | [![Python][py_img]](#)
-Proj | 6 | [DNA][dna_link] | Person identification based on their DNA. | [![Python][py_img]](#)
+Pset | 6 | [Hello][hello_py_link] | Says Hello to you. | [![Python][py_img]](#)
+Pset | 6 | [Mario (More)][mario_py_link] | Creates a Mario pyramid in terminal. | [![Python][py_img]](#)
+Pset | 6 | [Credit][credit_py_link] | Checks a given creditcard if is valid. | [![Python][py_img]](#)
+Pset | 6 | [Readability][readability_py_link] | Grades the readability of a text. | [![Python][py_img]](#)
+Pset | 6 | [DNA][dna_link] | Person identification based on their DNA. | [![Python][py_img]](#)
 Lab | 7 | [Songs][songs_link] | Answer questions about a database of songs | [![SQL][sql_img]](#)
-Proj | 7 | [Movies][movies_link] | Anwser questions about a DB of movies | [![SQL][sql_img]](#)
-Proj | 7 | [Fiftyville][fiftyville_link] | Solve a mystery | [![SQL][sql_img]](#)
+Pset | 7 | [Movies][movies_link] | Anwser questions about a DB of movies | [![SQL][sql_img]](#)
+Pset | 7 | [Fiftyville][fiftyville_link] | Solve a mystery | [![SQL][sql_img]](#)
 Lab | 8 | [Trivia][trivia_link] | A webpage that lets users answer trivia questions | [![HTML][html_img]![CSS][css_img]](#)
-Proj | 8 | [Homepage][homepage_link] | Simple homepage. | [![JavaScript][js_img]![HTML][html_img]![CSS][css_img]](#)
+Pset | 8 | [Homepage][homepage_link] | Simple homepage. | [![JavaScript][js_img]![HTML][html_img]![CSS][css_img]](#)
 Lab | 9 | [Birthdays][birthdays_link] | A web application to keep track of friends’ birthdays | [![Python][py_img]![HTML][html_img]![CSS][css_img]](#)
-Proj | 9 | [Finance][finance_link] | A website via wich users can "buy" and "sell" stocks. | [![Python][py_img]![HTML][html_img]](#)
+Pset | 9 | [Finance][finance_link] | A website via wich users can "buy" and "sell" stocks. | [![Python][py_img]![HTML][html_img]](#)
 Proj | fp | [MyICV][fproj_link] | My Interactive CV - Create and read interactive resumes. | [![C++][cpp_img]![QT][qt_img]](#)
   
 </div>
@@ -99,7 +99,7 @@ Proj | fp | [MyICV][fproj_link] | My Interactive CV - Create and read interactiv
 [trivia_link]:          lab-8-trivia
 [birthdays_link]:       lab-9-birthdays
 
-[fproj_link]:           https://github.com/GrandEchoWhiskey/cs50x-fp-icv
+[fproj_link]:           proj-fp-icv
 
 [c_img]: https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/c.png
 [py_img]: https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/python.png
