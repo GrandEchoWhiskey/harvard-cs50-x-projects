@@ -1,6 +1,13 @@
-# My Interactive CV
+[<- Back to course](../README.md)
 
-#### This project was created for the [CS50x](https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/blob/main/README.md) course, as the Final Project. 
+<p align="center"><a href="https://cs50.harvard.edu/x/2022">
+  <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/course/harvard100.png" /><br>
+</a></p>
+<h1 align="center">CS50's Introduction to Computing Science<br><br>My Interactive CV</h1>
+
+<p align="center"><a href="#">
+  <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/c.png" />
+</a></p>
 
 #### Video Demo: https://youtu.be/MXsBOsn7h5k
 ### Description:
@@ -14,6 +21,11 @@
 - #### Just create a `.icvx` file in the creator and send it to someone, who also uses this aplication. He can easily read your `CV` while watching and hearing your motivation message.
     >_Say NO to motivation letters!_
 #
+### Getting Started:
+Export this directory using SVN.
+```
+svn export https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/trunk/proj-fp-icv
+```
 ### Installation files:
 
 - #### `install.exe` 🡢 this verison requires administrator permissions to access the instalation process. It installs the program in program files by default, but there it needs admin rights to work properly.
